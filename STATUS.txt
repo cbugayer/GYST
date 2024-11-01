@@ -1,0 +1,7 @@
+Plan: 
+
+    Create a new branch for the python classes
+    Finish creating python classes
+    sqlite database 
+      send and recieve
+    
